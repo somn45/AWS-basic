@@ -1,0 +1,19 @@
+{
+  "name": "aws-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somn45/AWS-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somn45/AWS-basic/issues"
+  },
+  "homepage": "https://github.com/somn45/AWS-basic#readme"
+}
